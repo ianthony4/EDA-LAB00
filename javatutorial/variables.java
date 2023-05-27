@@ -1,6 +1,6 @@
 package javatutorial;
 
 public class variables {
-    System.out.println("En este apartado: ");
+    System.out.println("En este apartado: ");dsadasdsadas
     
 }
